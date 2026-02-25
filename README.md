@@ -57,7 +57,7 @@ Name | Description
 [LinkedIn](https://www.linkedin.com/company/joplin) | Our LinkedIn page
 [Lemmy Community](https://sopuli.xyz/c/joplinapp) | Also a good place to get help
 
-# Contributing
+# Contributing.
 
 Please see the guide for information on how to contribute to the development of Joplin: https://github.com/laurent22/joplin/blob/dev/readme/dev/index.md
 
